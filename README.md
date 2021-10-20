@@ -7,5 +7,5 @@ Here is the code for the Lending club data analysis where I have performed the f
     *  Logistic Regression 
     *  Support Vector Machine 
     *  K nearest Neighbour 
-    *  Gradient Boosting Trees
+    *  XG Boosting 
     *  Neural Network 
